@@ -13,7 +13,7 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 
 ---
 
-# Dont Forget To [🌟Star](https://github.com/CyberBoyAyush/Simple-Portfolio/fork) and [🍴Fork](https://github.com/CyberBoyAyush/Simple-Portfolio/fork) This Repo 💙
+# Dont Forget To [🌟Star](https://github.com/FayasNoushad/Simple-Portfolio/fork) and [🍴Fork](https://github.com/FayasNoushad/Simple-Portfolio/fork) This Repo 💙
 
 ---
 
