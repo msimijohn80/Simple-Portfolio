@@ -22,7 +22,7 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 [![mailid badge](https://img.shields.io/badge/CyberBoyAyush-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
 
 # Clone This Repo
-`git clone https://github.com/CyberBoyAyush/Simple-Portfolio.git`
+`git clone https://github.com/FayasNoushad/Simple-Portfolio.git`
 
 # Make Your Edits
 - Edit [index.html](https://github.com/CyberBoyAyush/Simple-Portfolio/tree/master/index.html) file according to your preference.
@@ -46,10 +46,8 @@ git push origin [branch_name]
 # Deploy Simple-Portfolio on Netlify
 
 ## Click on below button to deploy it on Netlify
-[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CyberBoyAyush/Simple-Portfolio)
-
-# Host it on your own server (Hosting Or Cloud)
-Download [Source Code Zip](https://github.com/CyberBoyAyush/Simple-Portfolio/archive/refs/tags/Download-Source.zip) and add it to your hosting file manager and than extract it and delete readme.md
+[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/FayasNoushad/Simple-Portfolio)
 
 # Credits
 - [ViperAdnan](https://github.com/viperadnan-git) for his old portfolio repo [link](https://github.com/viperadnan-git/viperadnan-git.github.io/releases/tag/v1.0.0). All code credits goes to him i just added more stuff in this and added a good readme to this project to make it easy to Deploy.
+- [CyberBoyAyush](https://github.com/cyberboyayush) for his [Simple-Portfolio](https://github.com/CyberBoyAyush/Simple-Portfolio) repository.
