@@ -16,11 +16,6 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 
 ## Dont Forget To [🌟Star](https://github.com/CyberBoyAyush/Simple-Portfolio/fork) and [🍴Fork](https://github.com/CyberBoyAyush/Simple-Portfolio/fork) This Repo 💙
 
-# Need Help?
-[![twitter badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/CyberBoyAyush)
-[![telegram badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=telegram)](https://t.me/CyberBoyAyush)
-[![mailid badge](https://img.shields.io/badge/CyberBoyAyush-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
-
 # Clone This Repo
 `git clone https://github.com/FayasNoushad/Simple-Portfolio.git`
 
